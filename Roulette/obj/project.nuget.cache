@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e78Hn+aG7nbNh+cVu6BvPmmWsCW1eb2rzAtTw+UUOpoWaytDJNFzOZSyxo8T2aEEICwlT8SDbNy9j/uY2k+5MQ==",
+  "success": true,
+  "projectFilePath": "D:\\MSSA\\Projects\\Roulette\\Roulette\\Roulette.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johnny\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

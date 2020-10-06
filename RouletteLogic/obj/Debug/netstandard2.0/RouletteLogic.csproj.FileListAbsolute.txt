@@ -1,0 +1,9 @@
+D:\MSSA\Projects\Roulette\RouletteLogic\bin\Debug\netstandard2.0\RouletteLogic.deps.json
+D:\MSSA\Projects\Roulette\RouletteLogic\bin\Debug\netstandard2.0\RouletteLogic.dll
+D:\MSSA\Projects\Roulette\RouletteLogic\bin\Debug\netstandard2.0\RouletteLogic.pdb
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.csprojAssemblyReference.cache
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.AssemblyInfoInputs.cache
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.AssemblyInfo.cs
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.csproj.CoreCompileInputs.cache
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.dll
+D:\MSSA\Projects\Roulette\RouletteLogic\obj\Debug\netstandard2.0\RouletteLogic.pdb

@@ -1,0 +1,16 @@
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\RouletteLogic.dll
+D:\MSSA\Projects\Roulette\ConsoleApp1\bin\Debug\netcoreapp3.1\RouletteLogic.pdb
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MSSA\Projects\Roulette\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roulette", "Roulette.csproj", "{9FC4B15F-0987-4C38-ACA3-16EA3125E4EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouletteLogic", "..\RouletteLogic\RouletteLogic.csproj", "{65C8C86C-EE3A-4D17-B642-CB879BC87F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC4B15F-0987-4C38-ACA3-16EA3125E4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC4B15F-0987-4C38-ACA3-16EA3125E4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC4B15F-0987-4C38-ACA3-16EA3125E4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC4B15F-0987-4C38-ACA3-16EA3125E4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C8C86C-EE3A-4D17-B642-CB879BC87F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C8C86C-EE3A-4D17-B642-CB879BC87F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C8C86C-EE3A-4D17-B642-CB879BC87F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C8C86C-EE3A-4D17-B642-CB879BC87F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35820790-0A17-4EDC-BE94-56249909550F}
+	EndGlobalSection
+EndGlobal

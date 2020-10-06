@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Roulette": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

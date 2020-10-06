@@ -1,0 +1,15 @@
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\RouletteLogic.dll
+D:\MSSA\Projects\Roulette\Roulette\bin\Debug\netcoreapp3.1\RouletteLogic.pdb
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.csproj.CopyComplete
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
+D:\MSSA\Projects\Roulette\Roulette\obj\Debug\netcoreapp3.1\Roulette.genruntimeconfig.cache
